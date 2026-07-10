@@ -48,3 +48,6 @@ print(history.undo_action())
 print(history.undo_action())
 
 history.show_history()
+
+print(history.undo_action())
+print(history.undo_action())
